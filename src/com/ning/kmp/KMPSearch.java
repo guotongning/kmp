@@ -5,9 +5,9 @@ package com.ning.kmp;
  */
 public class KMPSearch {
 
-    private static String STRING = "ABAABABCAA";
+    private static final String STRING = "ABAABABCAA";
 
-    private static String PATTERN = "ABABC";
+    private static final String PATTERN = "ABABC";
 
 
     public static void main(String[] args) {
